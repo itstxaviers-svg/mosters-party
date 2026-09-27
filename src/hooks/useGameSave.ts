@@ -1,16 +1,11 @@
 import { useCallback, useEffect, useState } from 'react'
-import type { Location, MonsterId, SaveState } from '../types'
+import type { SaveState } from '../types'
 
-const STORAGE_KEY = 'monsterPartySave_v1'
+const STORAGE_KEY = 'monsterPartyOriginalSave_v2'
 
 const initialState: SaveState = {
-  location: 'start',
-  discovered: [],
-  completed: [],
-  raceComplete: false,
+  scene: 0,
   soundOn: true,
-  tutorialSeen: false,
-  partySeen: false,
 }
 
 const readSave = (): SaveState => {
@@ -29,18 +24,12 @@ export function useGameSave() {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
   }, [state])
 
-  const go = useCallback((location: Location) => setState((current) => ({ ...current, location })), [])
-  const discover = useCallback((id: MonsterId) => setState((current) => current.discovered.includes(id)
-    ? current
-    : { ...current, discovered: [...current.discovered, id] }), [])
-  const complete = useCallback((id: MonsterId) => setState((current) => current.completed.includes(id)
-    ? current
-    : { ...current, completed: [...current.completed, id] }), [])
+  const go = useCallback((scene: number) => setState((current) => ({ ...current, scene })), [])
   const patch = useCallback((next: Partial<SaveState>) => setState((current) => ({ ...current, ...next })), [])
   const reset = useCallback(() => {
     localStorage.removeItem(STORAGE_KEY)
     setState(initialState)
   }, [])
 
-  return { state, go, discover, complete, patch, reset }
+  return { state, go, patch, reset }
 }

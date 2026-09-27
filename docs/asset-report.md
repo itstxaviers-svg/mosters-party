@@ -118,13 +118,12 @@ All production video is local. The original Genially contains 14 Vimeo reference
 
 ## Restored gameplay
 
-- Six-character audio recognition
-- Randomised room/audio challenge
+- Original linear scene order
+- Twelve-card character voice deck
+- Six original “How are you?” prompts
 - Food vocabulary: toast, juice, melon, roll, bacon, peach
 - Six-pair Memory game
-- “How are you?” character response
-- Invitation/welcome audio challenge
-- Local magic-mirror videos
-- Six-piece Monster Key progression
+- Six-room invitation/welcome journey
+- Local character and transition videos
 - Nine-round, two-player Monster Race
-- Final Party Hall video and replay
+- Final Monsters' Party scene and replay

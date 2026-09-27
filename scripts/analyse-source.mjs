@@ -103,16 +103,16 @@ const types = [
   'Monster video', 'How are you? choice challenge', 'Video transition', 'Timed video challenge (60s)', 'Transition / instruction', 'Illustrated activity',
   'Food vocabulary + 12-card memory', 'Timed video challenge (7s)', 'Video scene', 'Illustrated response', 'Video scene', 'Illustrated response',
   'Video scene', 'Illustrated response', 'Video scene', 'Illustrated response', 'Video scene', 'Illustrated response', 'Video scene', 'Illustrated response',
-  'Timed video challenge (60s)', 'Race introduction', 'Two-player race (9 rounds)', 'Final video', 'Final party',
+  'Race introduction', 'Two-player race (9 rounds)', 'Race video', 'Final video', 'Final party',
 ]
 const destinations = [
-  'StartScreen', 'IntroScene', 'MonsterHouseHub / MonsterBook', 'IntroScene magic mirror', 'AudioChoiceChallenge', 'AudioChoiceChallenge',
-  'SkeletonRoom', 'TrollRoom', 'WitchKitchen', 'VampireRoom', 'GhostRoom', 'RavenRoom',
+  'Welcome', 'Haunted house', 'Meet the monsters', 'Intro video', 'Voice deck', 'Voice deck',
+  'Voice deck response', 'Voice deck response', 'Voice deck response', 'Voice deck response', 'Voice deck response', 'Voice deck response',
   'Archive only', 'Archive only', 'Archive only', 'Archive only', 'Archive only', 'Archive only',
-  'Monster House cinema', 'VampireRoom MoodChallenge', 'MagicMirror', 'TimedChallenge reference', 'Room transition', 'MonsterRoom activity',
-  'WitchKitchen + Ghost MemoryGame', 'TimedChallenge reference', 'MonsterRoom MagicMirror', 'MonsterRoom feedback', 'MonsterRoom MagicMirror', 'MonsterRoom feedback',
-  'MonsterRoom MagicMirror', 'MonsterRoom feedback', 'MonsterRoom MagicMirror', 'MonsterRoom feedback', 'MonsterRoom MagicMirror', 'MonsterRoom feedback',
-  'MonsterRoom MagicMirror', 'MonsterRoom feedback', 'TimedChallenge reference', 'MonsterRace entrance', 'MonsterRace', 'Key / hall transition', 'PartyHall',
+  'Monster video', 'Feelings challenge', 'Feelings video', '60-second challenge', 'Food introduction', 'Food activity',
+  'Food vocabulary + Memory', '7-second challenge', 'Invitation journey', 'Invitation response', 'Invitation journey', 'Invitation response',
+  'Invitation journey', 'Invitation response', 'Invitation journey', 'Invitation response', 'Invitation journey', 'Invitation response',
+  'Invitation journey', 'Invitation response', 'Race introduction', 'Two-player Race', 'Race video', 'Party video', 'Final party',
 ]
 
 const cleanText = (value) => value.replace(/<[^>]*>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim()
@@ -141,9 +141,9 @@ for (const [index, slide] of slides.entries()) {
   flow += `- Visible text/state: ${texts.length ? [...new Set(texts)].join(' · ') : 'image/video-led scene'}\n`
   flow += `- Interactions: ${actionIds.length} linked action(s); correct/wrong audio and staged feedback are preserved where present.\n`
   flow += `- Original next: ${next.length ? next.map((item) => `Scene ${item}`).join(', ') : 'end'}\n`
-  flow += `- New game location: **${destinations[index]}**\n\n`
+  flow += `- Rebuild stage: **${destinations[index]}**\n\n`
 }
-await writeFile(path.join(docsRoot, 'original-flow.md'), flow)
+await writeFile(path.join(docsRoot, 'original-flow.md'), `${flow.trimEnd()}\n`)
 
 const localVideos = files.filter((file) => extension(file) === 'mp4').map(relative).sort()
 const externalVideos = data.Videos.map((video) => video.Source)
@@ -165,7 +165,7 @@ const report = `# Asset report\n\n` +
 `All production video is local. The original Genially contains ${externalVideos.length} Vimeo references, preserved below for audit only and not used at runtime.\n\n` +
 `### Local video files (${localVideos.length})\n\n${localVideos.map((item) => `- \`${item}\``).join('\n')}\n\n` +
 `### Original external references (${externalVideos.length})\n\n${externalVideos.map((item) => `- ${item}`).join('\n')}\n\n` +
-`## Restored gameplay\n\n- Six-character audio recognition\n- Randomised room/audio challenge\n- Food vocabulary: toast, juice, melon, roll, bacon, peach\n- Six-pair Memory game\n- “How are you?” character response\n- Invitation/welcome audio challenge\n- Local magic-mirror videos\n- Six-piece Monster Key progression\n- Nine-round, two-player Monster Race\n- Final Party Hall video and replay\n`
+`## Restored gameplay\n\n- Original linear scene order\n- Twelve-card character voice deck\n- Six original “How are you?” prompts\n- Food vocabulary: toast, juice, melon, roll, bacon, peach\n- Six-pair Memory game\n- Six-room invitation/welcome journey\n- Local character and transition videos\n- Nine-round, two-player Monster Race\n- Final Monsters' Party scene and replay\n`
 await writeFile(path.join(docsRoot, 'asset-report.md'), report)
 
 console.log(JSON.stringify({ counts, files: files.length, corrected: correctedReport.length, correctionFailures: failedCorrections.length, slides: slides.length, orphanSlides: slides.filter((slide) => !reachable.has(slide.Id)).map((slide) => slide.Order), localVideos: localVideos.length, externalVideos: externalVideos.length }, null, 2))

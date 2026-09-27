@@ -19,11 +19,6 @@ export interface Monster {
 }
 
 export interface SaveState {
-  location: Location
-  discovered: MonsterId[]
-  completed: MonsterId[]
-  raceComplete: boolean
+  scene: number
   soundOn: boolean
-  tutorialSeen: boolean
-  partySeen: boolean
 }

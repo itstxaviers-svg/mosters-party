@@ -13,7 +13,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 02
-- New game location: **StartScreen**
+- Rebuild stage: **Welcome**
 
 ## Scene 02 — House introduction
 
@@ -26,7 +26,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 03
-- New game location: **IntroScene**
+- Rebuild stage: **Haunted house**
 
 ## Scene 03 — Meet the six monsters
 
@@ -39,7 +39,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 04
-- New game location: **MonsterHouseHub / MonsterBook**
+- Rebuild stage: **Meet the monsters**
 
 ## Scene 04 — Intro video
 
@@ -52,7 +52,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 05
-- New game location: **IntroScene magic mirror**
+- Rebuild stage: **Intro video**
 
 ## Scene 05 — Random character deck
 
@@ -65,7 +65,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: 0 · £score · £score|+|1 · ?£score|=|12 · £score|=|0#Réinitialiser
 - Interactions: 13 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 10, Scene 09, Scene 07, Scene 11, Scene 12, Scene 08, Scene 19, Scene 06
-- New game location: **AudioChoiceChallenge**
+- Rebuild stage: **Voice deck**
 
 ## Scene 06 — Random deck completion state
 
@@ -78,7 +78,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: ?£score|=|12 · £score|=|0#Réinitialiser · 0 · £score · £score|+|1
 - Interactions: 13 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 10, Scene 09, Scene 07, Scene 11, Scene 12, Scene 08, Scene 05, Scene 19
-- New game location: **AudioChoiceChallenge**
+- Rebuild stage: **Voice deck**
 
 ## Scene 07 — Skeleton audio choice
 
@@ -91,7 +91,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 8 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 05
-- New game location: **SkeletonRoom**
+- Rebuild stage: **Voice deck response**
 
 ## Scene 08 — Troll audio choice
 
@@ -104,7 +104,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 8 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 05
-- New game location: **TrollRoom**
+- Rebuild stage: **Voice deck response**
 
 ## Scene 09 — Witch audio choice
 
@@ -117,7 +117,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 8 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 05
-- New game location: **WitchKitchen**
+- Rebuild stage: **Voice deck response**
 
 ## Scene 10 — Vampire audio choice
 
@@ -130,7 +130,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 8 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 05
-- New game location: **VampireRoom**
+- Rebuild stage: **Voice deck response**
 
 ## Scene 11 — Ghost audio choice
 
@@ -143,7 +143,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 8 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 05
-- New game location: **GhostRoom**
+- Rebuild stage: **Voice deck response**
 
 ## Scene 12 — Raven audio choice
 
@@ -156,7 +156,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 8 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 05
-- New game location: **RavenRoom**
+- Rebuild stage: **Voice deck response**
 
 ## Scene 13 — Skeleton duplicate challenge
 
@@ -169,7 +169,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 06
-- New game location: **Archive only**
+- Rebuild stage: **Archive only**
 
 ## Scene 14 — Troll duplicate challenge
 
@@ -182,7 +182,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 06
-- New game location: **Archive only**
+- Rebuild stage: **Archive only**
 
 ## Scene 15 — Witch duplicate challenge
 
@@ -195,7 +195,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 06
-- New game location: **Archive only**
+- Rebuild stage: **Archive only**
 
 ## Scene 16 — Vampire duplicate challenge
 
@@ -208,7 +208,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 06
-- New game location: **Archive only**
+- Rebuild stage: **Archive only**
 
 ## Scene 17 — Ghost duplicate challenge
 
@@ -221,7 +221,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 06
-- New game location: **Archive only**
+- Rebuild stage: **Archive only**
 
 ## Scene 18 — Raven duplicate challenge
 
@@ -234,7 +234,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 06
-- New game location: **Archive only**
+- Rebuild stage: **Archive only**
 
 ## Scene 19 — Monster video
 
@@ -247,7 +247,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 20
-- New game location: **Monster House cinema**
+- Rebuild stage: **Monster video**
 
 ## Scene 20 — How are you? choice challenge
 
@@ -260,7 +260,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 8 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 21
-- New game location: **VampireRoom MoodChallenge**
+- Rebuild stage: **Feelings challenge**
 
 ## Scene 21 — Video transition
 
@@ -273,7 +273,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 22
-- New game location: **MagicMirror**
+- Rebuild stage: **Feelings video**
 
 ## Scene 22 — Timed video challenge (60s)
 
@@ -286,7 +286,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: Un changement de page · 60
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 23
-- New game location: **TimedChallenge reference**
+- Rebuild stage: **60-second challenge**
 
 ## Scene 23 — Transition / instruction
 
@@ -299,7 +299,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 24
-- New game location: **Room transition**
+- Rebuild stage: **Food introduction**
 
 ## Scene 24 — Illustrated activity
 
@@ -312,7 +312,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT · 12 · 11 · 10 · 9 · 8 · 7 · 6 · 5 · 4 · 3 · 2 · 1 · juice · melon · bacon · toast · peach · roll · T:M3
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 25
-- New game location: **MonsterRoom activity**
+- Rebuild stage: **Food activity**
 
 ## Scene 25 — Food vocabulary + 12-card memory
 
@@ -325,7 +325,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: Un changement de page · 7
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 26
-- New game location: **WitchKitchen + Ghost MemoryGame**
+- Rebuild stage: **Food vocabulary + Memory**
 
 ## Scene 26 — Timed video challenge (7s)
 
@@ -338,7 +338,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 27
-- New game location: **TimedChallenge reference**
+- Rebuild stage: **7-second challenge**
 
 ## Scene 27 — Video scene
 
@@ -351,7 +351,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 28
-- New game location: **MonsterRoom MagicMirror**
+- Rebuild stage: **Invitation journey**
 
 ## Scene 28 — Illustrated response
 
@@ -364,7 +364,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 29
-- New game location: **MonsterRoom feedback**
+- Rebuild stage: **Invitation response**
 
 ## Scene 29 — Video scene
 
@@ -377,7 +377,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 30
-- New game location: **MonsterRoom MagicMirror**
+- Rebuild stage: **Invitation journey**
 
 ## Scene 30 — Illustrated response
 
@@ -390,7 +390,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 31
-- New game location: **MonsterRoom feedback**
+- Rebuild stage: **Invitation response**
 
 ## Scene 31 — Video scene
 
@@ -403,7 +403,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 32
-- New game location: **MonsterRoom MagicMirror**
+- Rebuild stage: **Invitation journey**
 
 ## Scene 32 — Illustrated response
 
@@ -416,7 +416,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 33
-- New game location: **MonsterRoom feedback**
+- Rebuild stage: **Invitation response**
 
 ## Scene 33 — Video scene
 
@@ -429,7 +429,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 34
-- New game location: **MonsterRoom MagicMirror**
+- Rebuild stage: **Invitation journey**
 
 ## Scene 34 — Illustrated response
 
@@ -442,7 +442,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 35
-- New game location: **MonsterRoom feedback**
+- Rebuild stage: **Invitation response**
 
 ## Scene 35 — Video scene
 
@@ -455,7 +455,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 36
-- New game location: **MonsterRoom MagicMirror**
+- Rebuild stage: **Invitation journey**
 
 ## Scene 36 — Illustrated response
 
@@ -468,7 +468,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 37
-- New game location: **MonsterRoom feedback**
+- Rebuild stage: **Invitation response**
 
 ## Scene 37 — Video scene
 
@@ -481,7 +481,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 7 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 38
-- New game location: **MonsterRoom MagicMirror**
+- Rebuild stage: **Invitation journey**
 
 ## Scene 38 — Illustrated response
 
@@ -494,9 +494,9 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: Un changement de page · 60
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 39
-- New game location: **MonsterRoom feedback**
+- Rebuild stage: **Invitation response**
 
-## Scene 39 — Timed video challenge (60s)
+## Scene 39 — Race introduction
 
 - Original slide: order 39, name `2 Copy Copy Copy Copy Copy Copy Copy`, id `26e97d3f-17b6-46bf-98be-4f2959c5b48c`
 - Status: **REACHABLE**
@@ -507,9 +507,9 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: RACE · NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 40
-- New game location: **TimedChallenge reference**
+- Rebuild stage: **Race introduction**
 
-## Scene 40 — Race introduction
+## Scene 40 — Two-player race (9 rounds)
 
 - Original slide: order 40, name `2 Copy Copy Copy Copy Copy Copy Copy Copy`, id `76085359-6627-4f7c-8c8c-b47ef85999ba`
 - Status: **REACHABLE**
@@ -520,9 +520,9 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: # · 9, G: false · NEXT
 - Interactions: 2 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 41
-- New game location: **MonsterRace entrance**
+- Rebuild stage: **Two-player Race**
 
-## Scene 41 — Two-player race (9 rounds)
+## Scene 41 — Race video
 
 - Original slide: order 41, name `2 Copy Copy`, id `8b3e669d-803e-4c5e-b22b-fed29d45ad5f`
 - Status: **REACHABLE**
@@ -533,7 +533,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 42
-- New game location: **MonsterRace**
+- Rebuild stage: **Race video**
 
 ## Scene 42 — Final video
 
@@ -546,7 +546,7 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: NEXT
 - Interactions: 1 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: Scene 43
-- New game location: **Key / hall transition**
+- Rebuild stage: **Party video**
 
 ## Scene 43 — Final party
 
@@ -559,4 +559,4 @@ Generated from the embedded Genially JSON. The export is reference-only; no Geni
 - Visible text/state: image/video-led scene
 - Interactions: 0 linked action(s); correct/wrong audio and staged feedback are preserved where present.
 - Original next: end
-- New game location: **PartyHall**
+- Rebuild stage: **Final party**
