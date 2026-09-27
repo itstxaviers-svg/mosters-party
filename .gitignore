@@ -1,0 +1,13 @@
+node_modules/
+dist/
+_tools/
+_source/
+archive/
+src/assets/original/
+test-results/
+*.zip
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+MONSTERS_PARTY_CODEX_INSTRUCTION.md
+.DS_Store

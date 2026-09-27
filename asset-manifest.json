@@ -1,0 +1,2948 @@
+{
+  "source": "monsters.zip",
+  "counts": {
+    "gif": 15,
+    "jpg": 20,
+    "mp3": 11,
+    "mp4": 77,
+    "png": 90,
+    "wav": 80,
+    "zip": 1
+  },
+  "duplicateGroups": [
+    [
+      "cafe game/Food/ChatGPT Image 16 окт. 2025 г., 13_01_52.png",
+      "cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 13_01_52.png"
+    ],
+    [
+      "cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_11.png",
+      "cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_11.png"
+    ],
+    [
+      "cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_17.png",
+      "cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_17.png"
+    ],
+    [
+      "cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_20.png",
+      "cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_20.png"
+    ],
+    [
+      "cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_24.png",
+      "cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_24.png"
+    ],
+    [
+      "cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_27.png",
+      "cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_27.png"
+    ],
+    [
+      "rooms picx/attic.wav",
+      "rooms picx/rooms aiudio/attic.wav"
+    ],
+    [
+      "rooms picx/basement.wav",
+      "rooms picx/rooms aiudio/basement.wav"
+    ],
+    [
+      "rooms picx/bathroom.wav",
+      "rooms picx/rooms aiudio/bathroom.wav"
+    ],
+    [
+      "rooms picx/bedroom.wav",
+      "rooms picx/rooms aiudio/bedroom.wav"
+    ],
+    [
+      "rooms picx/kitchen.wav",
+      "rooms picx/rooms aiudio/kitchen.wav"
+    ],
+    [
+      "rooms picx/living room.wav",
+      "rooms picx/rooms aiudio/living room.wav"
+    ]
+  ],
+  "assets": [
+    {
+      "source": "_source/monsters/monsters/20.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/20.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 268042
+    },
+    {
+      "source": "_source/monsters/monsters/21.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/21.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 365352
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 1 окт. 2025 г., 22_37_43.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 1 окт. 2025 г., 22_37_43.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2347034
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 1 окт. 2025 г., 22_58_22.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 1 окт. 2025 г., 22_58_22.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 3098552
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 1 окт. 2025 г., 23_14_31.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 1 окт. 2025 г., 23_14_31.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 3268952
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 1 окт. 2025 г., 23_40_07.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 1 окт. 2025 г., 23_40_07.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2933809
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 14 окт. 2025 г., 11_52_40.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 14 окт. 2025 г., 11_52_40.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2824055
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 19 окт. 2025 г., 01_06_45.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 19 окт. 2025 г., 01_06_45.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2550294
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 2 окт. 2025 г., 22_28_59.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 2 окт. 2025 г., 22_28_59.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 3103335
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 2 окт. 2025 г., 22_42_40.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 2 окт. 2025 г., 22_42_40.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2928598
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 2 окт. 2025 г., 23_06_57.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 2 окт. 2025 г., 23_06_57.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2432542
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 2 окт. 2025 г., 23_15_42.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 2 окт. 2025 г., 23_15_42.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2963641
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 2 окт. 2025 г., 23_29_09.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 2 окт. 2025 г., 23_29_09.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 3719250
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 2 окт. 2025 г., 23_32_51.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 2 окт. 2025 г., 23_32_51.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2891536
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 2 окт. 2025 г., 23_37_03.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 2 окт. 2025 г., 23_37_03.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2859658
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 2 окт. 2025 г., 23_39_50.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 2 окт. 2025 г., 23_39_50.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2530040
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 2 окт. 2025 г., 23_57_13.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 2 окт. 2025 г., 23_57_13.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2533630
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 3 окт. 2025 г., 00_04_00.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 3 окт. 2025 г., 00_04_00.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2757975
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 3 окт. 2025 г., 00_09_57.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 3 окт. 2025 г., 00_09_57.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 3977276
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 3 окт. 2025 г., 00_20_58.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 3 окт. 2025 г., 00_20_58.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2449255
+    },
+    {
+      "source": "_source/monsters/monsters/ChatGPT Image 7 окт. 2025 г., 22_34_15.png",
+      "type": "png",
+      "corrected": "archive/corrected/ChatGPT Image 7 окт. 2025 г., 22_34_15.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1854486
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/Generated File October 14, 2025 - 8_01PM.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1088098
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/Generated File October 14, 2025 - 8_09PM.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1011307
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/Generated File October 14, 2025 - 8_13PM.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 975740
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/Generated File October 14, 2025 - 8_25PM.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1018825
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/Generated File October 14, 2025 - 8_26PM.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1065837
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/Generated File October 14, 2025 - 8_28PM.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1320819
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/gh.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/GIF/gh.gif",
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 2772665
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/rav.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/GIF/rav.gif",
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 4495953
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/sk.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/GIF/sk.gif",
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 4153194
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/tr.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/GIF/tr.gif",
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 5180557
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/vam.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/GIF/vam.gif",
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 4430458
+    },
+    {
+      "source": "_source/monsters/monsters/GIF/wi.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/GIF/wi.gif",
+      "usedBy": [
+        "MonsterRoom",
+        "MonsterBook"
+      ],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 5174482
+    },
+    {
+      "source": "_source/monsters/monsters/Mosters' party.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 66963793
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/19700121_1456_68ea8e85464c8191965a89bc73d633f4.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 8905581
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/20251011_2137_01k7a1yp6aep8b1s2x11qpef8q.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 8801004
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/20251011_2240_01k7a5ppwteef9vgp03h7c37tz.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7320877
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/20251011_2254_01k7a6g4smew38tv6e7fgz5xp5.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 8439377
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/20251011_2255_01k7a5wgmgf6zbaq5vvjj5hb4g.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7355966
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/20251011_2300_01k7a6tjkbewzbjes16vwenx53.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7421056
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/20251011_2308_01k7a76fvff47ty92vbpxyj2fb.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 9385987
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/20251011_2324_01k7a85zwdesatwy2vdw4yd364.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7989629
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/ChatGPT Image 11 окт. 2025 г., 22_36_05.png",
+      "type": "png",
+      "corrected": "archive/corrected/Video monsters/ChatGPT Image 11 окт. 2025 г., 22_36_05.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2940963
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/It’s a Monster Halloween!.mp3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1405357
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/ghost.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 5630536
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/monsters' song.MP3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1585578
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/mosnters.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 67549523
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/raven.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 6220927
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/skeleton.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 6490411
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/troll.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 8372437
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/vampire.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 3997979
+    },
+    {
+      "source": "_source/monsters/monsters/Video monsters/witch.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 8941013
+    },
+    {
+      "source": "_source/monsters/monsters/attic1.png",
+      "type": "png",
+      "corrected": "archive/corrected/attic1.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2909540
+    },
+    {
+      "source": "_source/monsters/monsters/audio characters/ghost.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "AudioChoiceChallenge"
+      ],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 179130
+    },
+    {
+      "source": "_source/monsters/monsters/audio characters/raven.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "AudioChoiceChallenge"
+      ],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 90810
+    },
+    {
+      "source": "_source/monsters/monsters/audio characters/skeleton.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "AudioChoiceChallenge"
+      ],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 83130
+    },
+    {
+      "source": "_source/monsters/monsters/audio characters/troll.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "AudioChoiceChallenge"
+      ],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 100410
+    },
+    {
+      "source": "_source/monsters/monsters/audio characters/vampire.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "AudioChoiceChallenge"
+      ],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 127290
+    },
+    {
+      "source": "_source/monsters/monsters/audio characters/witch.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "AudioChoiceChallenge"
+      ],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 175290
+    },
+    {
+      "source": "_source/monsters/monsters/bedroom.png",
+      "type": "png",
+      "corrected": "archive/corrected/bedroom.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2691972
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/1017(1).MP3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 75909
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/1017.MP3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 56474
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/20251016_1343_01k7p2y671fbdadamcshfa4e7j.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 9840265
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ChatGPT Image 16 окт. 2025 г., 13_45_50.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ChatGPT Image 16 окт. 2025 г., 13_45_50.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2733095
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ChatGPT Image 16 окт. 2025 г., 14_41_00.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ChatGPT Image 16 окт. 2025 г., 14_41_00.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2550944
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ChatGPT Image 19 окт. 2025 г., 00_56_16.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ChatGPT Image 19 окт. 2025 г., 00_56_16.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 747284
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ChatGPT Image 19 окт. 2025 г., 01_02_53.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ChatGPT Image 19 окт. 2025 г., 01_02_53.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 709812
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 13_01_52.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 13_01_52.png",
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1738029
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_11.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_11.png",
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1987099
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_17.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_17.png",
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2995095
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_20.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_20.png",
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2881120
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_24.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_24.png",
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1943419
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_27.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/Food/ChatGPT Image 16 окт. 2025 г., 22_56_27.png",
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2870909
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/bacon.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 75450
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/juice.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 62010
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/melon.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 69690
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/peach.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 60090
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/roll.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 75450
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Food/toast.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "WitchKitchen",
+        "MemoryGame",
+        "MonsterRace"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 63930
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/GE.MP3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 336089
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Monster Latte.mp3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2788744
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Monster's cafe.MP3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1685888
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/PixVerse_V5_Image_Text_360P_A_cozy_Victorianst.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 816749
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/TH.MP3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1603759
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/Wi th.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 108090
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/1019(1).gif",
+      "type": "gif",
+      "corrected": "archive/corrected/cafe game/final/1019(1).gif",
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 5153314
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/1019(2).gif",
+      "type": "gif",
+      "corrected": "archive/corrected/cafe game/final/1019(2).gif",
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 4623177
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/1019(3).gif",
+      "type": "gif",
+      "corrected": "archive/corrected/cafe game/final/1019(3).gif",
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 4703690
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/1019.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/cafe game/final/1019.gif",
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2524256
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/1020.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/cafe game/final/1020.gif",
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 4062744
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/1021.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/cafe game/final/1021.gif",
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 4494369
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/PixVerse_V5_Image_Text_360P_A_blue_raven_weari.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 383165
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/PixVerse_V5_Image_Text_360P_A_cheerful_greensk.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 500295
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/PixVerse_V5_Image_Text_360P_A_cheerful_skeleto.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 426034
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/PixVerse_V5_Image_Text_360P_A_friendly_ghost_d.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 311410
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/PixVerse_V5_Image_Text_360P_A_friendly_spookyc.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 570871
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/final/PixVerse_V5_Image_Text_360P_A_spookycute_vampi.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "FinalParty"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 341384
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/gh GE.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 131130
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/gh Th.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 138810
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/gh ph.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 211770
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/gh sub.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 2587052
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/monsters and rooms.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/cafe game/monsters and rooms.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 202272
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/r GE.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 100410
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/r Th.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 110010
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/r ph.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 167610
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/rav sub.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 1683612
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/sk GE.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 77370
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/sk Th.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 77370
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/sk ph.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 117690
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/sk sub.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 2043967
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/tr GE.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 108090
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/tr sub.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 4752373
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/tr th.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 79290
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/troll ph.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 263610
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/v GE.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 115770
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/v ph.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 217530
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/v th.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 90810
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/vam sub.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 2893981
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/1.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 650529
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/2.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 302093
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/3.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 249335
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/4.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 309123
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/5.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 391240
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/6.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 213930
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/7.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 237342
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/8.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 477657
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/9.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 250283
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/GE.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 387420
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/TH.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 567018
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/d017ac33-b72f-49cc-986a-7724595e9897.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 356158
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/efasedgbZXfhb.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1660245
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/gh.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 522112
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/r.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 362786
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/sk.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 365408
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/tr.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 983978
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/v.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 613452
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/video_014a0cac-28c9-4803-a7d6-7df990c047b5_1760801221947.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 352613
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/video_45b3016e-2750-44d9-b093-0bdbf86227a1_1760801014507.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 421288
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/video_65ccdc59-6a39-42b0-b4a6-8dcc55954cd4_1760800713522.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 403537
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/video_a9959d5c-5902-4a45-b560-6bccad36932d_1760801021202.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 461616
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/videos/wi.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 342069
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/w 1.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 259770
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/w2.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 184890
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/w3.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 108090
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/w4.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 134970
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/w5.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 154170
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/w6.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 86970
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/w7.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 88890
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/w8.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 223290
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/w9.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 96570
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/wi GE.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 110010
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/wi ph.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 133050
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/wi sub.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 2174172
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/38.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/cafe game/ааа/38.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 232446
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/39.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/cafe game/ааа/39.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 222678
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/40.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/cafe game/ааа/40.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 226123
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/41.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/cafe game/ааа/41.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 223217
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/42.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/cafe game/ааа/42.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 212607
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/43.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/cafe game/ааа/43.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 240156
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/44.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/cafe game/ааа/44.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 231384
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 13_01_52.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 13_01_52.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1738029
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_11.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_11.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1987099
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_17.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_17.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2995095
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_20.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_20.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2881120
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_24.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_24.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1943419
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_27.png",
+      "type": "png",
+      "corrected": "archive/corrected/cafe game/ааа/ChatGPT Image 16 окт. 2025 г., 22_56_27.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2870909
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/без кар.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 51918981
+    },
+    {
+      "source": "_source/monsters/monsters/cafe game/полный вариант.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 51918325
+    },
+    {
+      "source": "_source/monsters/monsters/house.png",
+      "type": "png",
+      "corrected": "archive/corrected/house.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2608974
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 14 окт. 2025 г., 20_43_51.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 14 окт. 2025 г., 20_43_51.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 3526173
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 14 окт. 2025 г., 20_49_25.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 14 окт. 2025 г., 20_49_25.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 3439069
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 14 окт. 2025 г., 20_51_54.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 14 окт. 2025 г., 20_51_54.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 3517944
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 14 окт. 2025 г., 20_54_29.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 14 окт. 2025 г., 20_54_29.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 3766946
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 14 окт. 2025 г., 21_34_44.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 14 окт. 2025 г., 21_34_44.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 3514140
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 14 окт. 2025 г., 21_43_50.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 14 окт. 2025 г., 21_43_50.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 3682409
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 14 окт. 2025 г., 21_49_43.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 14 окт. 2025 г., 21_49_43.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 3723978
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 14 окт. 2025 г., 22_31_03.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 14 окт. 2025 г., 22_31_03.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2618889
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 14 окт. 2025 г., 22_48_59.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 14 окт. 2025 г., 22_48_59.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 3012074
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/ChatGPT Image 16 окт. 2025 г., 14_31_02.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/ChatGPT Image 16 окт. 2025 г., 14_31_02.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1818823
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/gh boo.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 94650
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/gh br.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 104250
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/gh wel.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 227130
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/monsters and rooms.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/invitation game/monsters and rooms.jpg",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 184647
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/monsters and rooms.png",
+      "type": "png",
+      "corrected": "archive/corrected/invitation game/monsters and rooms.png",
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2434795
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/r boo.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 86970
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/r br.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 94650
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/r wel.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 207930
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/sk boo.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 71610
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/sk br.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 81210
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/sk wel.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 136890
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/tr boo.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 127290
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/tr br.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 115770
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/tr wel.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 234810
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/v boo.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 86970
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/vam br.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 100410
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/vam wel.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 211770
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/wi boo.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 85050
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/wi br.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 85050
+    },
+    {
+      "source": "_source/monsters/monsters/invitation game/wi wel.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "InvitationChallenge"
+      ],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 177210
+    },
+    {
+      "source": "_source/monsters/monsters/kitchen-basement.png",
+      "type": "png",
+      "corrected": "archive/corrected/kitchen-basement.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2525772
+    },
+    {
+      "source": "_source/monsters/monsters/living room.png",
+      "type": "png",
+      "corrected": "archive/corrected/living room.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2011281
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/1.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/1.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7899716
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/10.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/10.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7511674
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/11.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/11.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7504078
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/12.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/12.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2784500
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/13.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/13.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7151957
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/14.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/14.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 6390854
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/15.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/15.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1392095
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/16.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/16.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7392982
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/17.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/17.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7183496
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/18.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/18.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2134945
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/2.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/2.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7411868
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/3.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/3.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1495701
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/4.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/4.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7820419
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/5.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/5.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 6228445
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/6.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/6.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1863148
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/7.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/7.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 7557634
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/8.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/8.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 6613249
+    },
+    {
+      "source": "_source/monsters/monsters/monsters/9.png",
+      "type": "png",
+      "corrected": "archive/corrected/monsters/9.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1978722
+    },
+    {
+      "source": "_source/monsters/monsters/monsters and rooms/30.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/monsters and rooms/30.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 341406
+    },
+    {
+      "source": "_source/monsters/monsters/monsters and rooms/34.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/monsters and rooms/34.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 313616
+    },
+    {
+      "source": "_source/monsters/monsters/monsters and rooms/35.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/monsters and rooms/35.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 421835
+    },
+    {
+      "source": "_source/monsters/monsters/monsters and rooms/36.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/monsters and rooms/36.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 294500
+    },
+    {
+      "source": "_source/monsters/monsters/monsters and rooms/37.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/monsters and rooms/37.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 369943
+    },
+    {
+      "source": "_source/monsters/monsters/monsters and rooms.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/monsters and rooms.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 147176
+    },
+    {
+      "source": "_source/monsters/monsters/monsters and rooms.zip",
+      "type": "zip",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1742252
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/1.png",
+      "type": "png",
+      "corrected": "archive/corrected/rooms picx/1.png",
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 3011365
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/11.png",
+      "type": "png",
+      "corrected": "archive/corrected/rooms picx/11.png",
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2834122
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/14.png",
+      "type": "png",
+      "corrected": "archive/corrected/rooms picx/14.png",
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2688932
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/17.png",
+      "type": "png",
+      "corrected": "archive/corrected/rooms picx/17.png",
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2674320
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/5.png",
+      "type": "png",
+      "corrected": "archive/corrected/rooms picx/5.png",
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2341230
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/8.png",
+      "type": "png",
+      "corrected": "archive/corrected/rooms picx/8.png",
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 2636818
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/attic.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 62010
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/basement.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 86970
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/bathroom.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 77370
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/bedroom.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 86970
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/kitchen.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 83130
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/living room.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 100410
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/rooms aiudio/attic.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 62010
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/rooms aiudio/basement.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 86970
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/rooms aiudio/bathroom.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 77370
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/rooms aiudio/bedroom.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 86970
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/rooms aiudio/kitchen.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 83130
+    },
+    {
+      "source": "_source/monsters/monsters/rooms picx/rooms aiudio/living room.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [
+        "RoomSoundChallenge"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 100410
+    },
+    {
+      "source": "_source/monsters/monsters/video house/1.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 6749420
+    },
+    {
+      "source": "_source/monsters/monsters/video house/20251013_1315_01k7ea32yafe2bfcbzktfh97p9.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 7822460
+    },
+    {
+      "source": "_source/monsters/monsters/video house/MH.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 62442038
+    },
+    {
+      "source": "_source/monsters/monsters/video house/Monsters' house.mp3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 1296818
+    },
+    {
+      "source": "_source/monsters/monsters/video house/ghost.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 4915931
+    },
+    {
+      "source": "_source/monsters/monsters/video house/monsters and rooms.png",
+      "type": "png",
+      "corrected": "archive/corrected/video house/monsters and rooms.png",
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": null,
+      "scene": null,
+      "bytes": 4999967
+    },
+    {
+      "source": "_source/monsters/monsters/video house/raven.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 8010772
+    },
+    {
+      "source": "_source/monsters/monsters/video house/skeleton.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 8072920
+    },
+    {
+      "source": "_source/monsters/monsters/video house/troll.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 9724165
+    },
+    {
+      "source": "_source/monsters/monsters/video house/vampire.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 10907241
+    },
+    {
+      "source": "_source/monsters/monsters/video house/witch.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [
+        "MagicMirror"
+      ],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 9827108
+    },
+    {
+      "source": "_source/monsters/monsters/переход/1019/1019.MP3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 35785
+    },
+    {
+      "source": "_source/monsters/monsters/переход/1019/1019.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/переход/1019/1019.gif",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1947743
+    },
+    {
+      "source": "_source/monsters/monsters/переход/1019(4)/1019(4).MP3",
+      "type": "mp3",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 20739
+    },
+    {
+      "source": "_source/monsters/monsters/переход/1019(4)/1019(4).gif",
+      "type": "gif",
+      "corrected": "archive/corrected/переход/1019(4)/1019(4).gif",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1192093
+    },
+    {
+      "source": "_source/monsters/monsters/переход/1020.gif",
+      "type": "gif",
+      "corrected": "archive/corrected/переход/1020.gif",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 3284297
+    },
+    {
+      "source": "_source/monsters/monsters/переход/52.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/52.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2908892
+    },
+    {
+      "source": "_source/monsters/monsters/переход/53.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/53.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2881954
+    },
+    {
+      "source": "_source/monsters/monsters/переход/ChatGPT Image 18 окт. 2025 г., 23_14_13.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/ChatGPT Image 18 окт. 2025 г., 23_14_13.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 3040515
+    },
+    {
+      "source": "_source/monsters/monsters/переход/ChatGPT Image 19 окт. 2025 г., 18_46_10.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/ChatGPT Image 19 окт. 2025 г., 18_46_10.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1874194
+    },
+    {
+      "source": "_source/monsters/monsters/переход/ChatGPT Image 19 окт. 2025 г., 19_02_09.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/ChatGPT Image 19 окт. 2025 г., 19_02_09.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1048579
+    },
+    {
+      "source": "_source/monsters/monsters/переход/ChatGPT Image 19 окт. 2025 г., 19_18_07.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/ChatGPT Image 19 окт. 2025 г., 19_18_07.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1859600
+    },
+    {
+      "source": "_source/monsters/monsters/переход/ChatGPT Image 19 окт. 2025 г., 19_19_03.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/ChatGPT Image 19 окт. 2025 г., 19_19_03.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2415469
+    },
+    {
+      "source": "_source/monsters/monsters/переход/ChatGPT Image 19 окт. 2025 г., 19_20_55.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/ChatGPT Image 19 окт. 2025 г., 19_20_55.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1961463
+    },
+    {
+      "source": "_source/monsters/monsters/переход/ChatGPT Image 19 окт. 2025 г., 19_33_07.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/ChatGPT Image 19 окт. 2025 г., 19_33_07.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1967068
+    },
+    {
+      "source": "_source/monsters/monsters/переход/MC.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 340410
+    },
+    {
+      "source": "_source/monsters/monsters/переход/gh col.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "ghost",
+      "scene": null,
+      "bytes": 144570
+    },
+    {
+      "source": "_source/monsters/monsters/переход/hra.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 127290
+    },
+    {
+      "source": "_source/monsters/monsters/переход/mnllj.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/mnllj.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1420194
+    },
+    {
+      "source": "_source/monsters/monsters/переход/monsters and rooms (1).png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/monsters and rooms (1).png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2482349
+    },
+    {
+      "source": "_source/monsters/monsters/переход/monsters and rooms.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/переход/monsters and rooms.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 265054
+    },
+    {
+      "source": "_source/monsters/monsters/переход/monsters and rooms.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/monsters and rooms.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2736066
+    },
+    {
+      "source": "_source/monsters/monsters/переход/on.png",
+      "type": "png",
+      "corrected": "archive/corrected/переход/on.png",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 2003922
+    },
+    {
+      "source": "_source/monsters/monsters/переход/rav good.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "raven",
+      "scene": null,
+      "bytes": 96570
+    },
+    {
+      "source": "_source/monsters/monsters/переход/sk great.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 100410
+    },
+    {
+      "source": "_source/monsters/monsters/переход/sk greatjn.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "skeleton",
+      "scene": null,
+      "bytes": 67770
+    },
+    {
+      "source": "_source/monsters/monsters/переход/supawork-48096c0f1cfc4b34b947b40d1c9efa53.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1709783
+    },
+    {
+      "source": "_source/monsters/monsters/переход/tr hung.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 169530
+    },
+    {
+      "source": "_source/monsters/monsters/переход/troll dance.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "troll",
+      "scene": null,
+      "bytes": 326970
+    },
+    {
+      "source": "_source/monsters/monsters/переход/vam good.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 88890
+    },
+    {
+      "source": "_source/monsters/monsters/переход/vam tir.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "vampire",
+      "scene": null,
+      "bytes": 140730
+    },
+    {
+      "source": "_source/monsters/monsters/переход/video_0af0035f-8687-4b9c-9f44-56e5564a4cb0_1760885373067.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 313500
+    },
+    {
+      "source": "_source/monsters/monsters/переход/video_1c3f9cae-0301-478c-9542-87685f55190c_1760812228079.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 705558
+    },
+    {
+      "source": "_source/monsters/monsters/переход/video_9b1b3b7c-9c55-413f-a849-907d047e2b66_1760881756789.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 3016269
+    },
+    {
+      "source": "_source/monsters/monsters/переход/video_e6d97b12-e139-47c6-8053-317db6c17574_1760885664195.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 333414
+    },
+    {
+      "source": "_source/monsters/monsters/переход/video_e7aa4290-d32e-428a-861c-7afd6996e08c_1760816569181.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 1961139
+    },
+    {
+      "source": "_source/monsters/monsters/переход/wi ok.wav",
+      "type": "wav",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 71610
+    },
+    {
+      "source": "_source/monsters/monsters/переход/witch.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/переход/witch.jpg",
+      "usedBy": [],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 254695
+    },
+    {
+      "source": "_source/monsters/monsters/переход/witch.mp4",
+      "type": "mp4",
+      "corrected": null,
+      "usedBy": [],
+      "monster": "witch",
+      "scene": null,
+      "bytes": 1622885
+    },
+    {
+      "source": "_source/monsters/monsters/переход/пр.jpg",
+      "type": "jpg",
+      "corrected": "archive/corrected/переход/пр.jpg",
+      "usedBy": [],
+      "monster": null,
+      "scene": null,
+      "bytes": 256591
+    }
+  ]
+}
